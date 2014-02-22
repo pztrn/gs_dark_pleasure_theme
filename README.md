@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Screenshot](https://github.com/pztrn/dark_pleasure/raw/master/screenshot.png)
+![Screenshot](https://github.com/pztrn/gs_dark_pleasure_theme/raw/master/screenshot.png)
 
 ## Instructions
 
